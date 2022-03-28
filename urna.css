@@ -130,3 +130,18 @@ align-items: flex-end;
 width: 70%;
 font-size: 12px;
 }
+.aviso--grande{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+}
+.aviso--gigante{
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

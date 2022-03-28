@@ -31,7 +31,7 @@ let etapas=[
             partido: 'DBZ',
             vice:'MajinBoo',
             fotos:[
-                {url: '//i.pinimg.com/736x/e4/ff/6e/e4ff6e8755bfd3139326d24718d64497.jpg', legenda:'PREFEITO'},
+                {url: 'https://ovicio.com.br/wp-content/uploads/2021/07/20210718-vegeta-1024x576-1.jpg', legenda:'PREFEITO'},
                 {url:'https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2021/10/legiao_0Ovd7XqbTIos.png.jpeg', legenda:'VICE-PREFEITO', small:true}
             ]
         },
